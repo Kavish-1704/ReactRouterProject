@@ -7,7 +7,7 @@ A simple React application demonstrating the use of **React Router v6** for clie
 ## 🚀 Demo
 
 🌐 Live URL: _Coming Soon_  
-📁 GitHub Repo: [Click Here](https://github.com/Kavish-1704/ReactRouterProject/tree/main/ReactRouter/src/components)
+📁 GitHub Repo: [Click Here](https://github.com/Kavish-1704/ReactRouterProject)
 
 ---
 
@@ -16,14 +16,14 @@ A simple React application demonstrating the use of **React Router v6** for clie
 - 🚦 React Router v6 setup
 - 🔗 Navigation between multiple pages
 - 📟 Dynamic route example (GitHub followers)
-- 📱 Responsive layout using basic CSS or Tailwind (your choice)
+- 📱 Responsive layout using Tailwind 
 - 💡 Easy to plug into any React project as a template
 
 ---
 
 ## 🧰 Tech Stack
 
-- React (Vite or Create React App)
+- React (VITE)
 - React Router DOM
 - GitHub REST API (for followers demo)
 - Optional: Tailwind CSS / Plain CSS
@@ -33,7 +33,7 @@ A simple React application demonstrating the use of **React Router v6** for clie
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Kavish-1704/react-router-demo.git
+git clone https://github.com/Kavish-1704/ReactRouterProject
 cd react-router-demo
 npm install
-npm run dev   # or npm start if using CRA
+npm run dev   
