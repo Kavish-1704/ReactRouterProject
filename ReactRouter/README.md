@@ -34,6 +34,6 @@ A simple React application demonstrating the use of **React Router v6** for clie
 
 ```bash
 git clone https://github.com/Kavish-1704/ReactRouterProject
-cd react-router-demo
+cd reactrouter
 npm install
 npm run dev   
